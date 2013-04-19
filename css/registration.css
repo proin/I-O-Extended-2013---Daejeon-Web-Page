@@ -1,0 +1,22 @@
+.registrationform {
+	border: 0px;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	overflow:hidden;
+	
+}
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+.navbar .brand {
+	font-size: 16px;
+	font-weight: bold;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, .5);
+}
